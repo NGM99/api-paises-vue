@@ -1,6 +1,6 @@
 # vue-api-paises
 
-Aplicacion desarrollada en vue.js que despliega datos tomados desde una API 
+Aplicación desarrollada en vue.js que despliega datos tomados desde una API 
 
 
 ## Project Setup
