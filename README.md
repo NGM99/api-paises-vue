@@ -1,6 +1,6 @@
 # vue-api-paises
 
-This template should help get you started developing with Vue 3 in Vite.
+Aplicacion desarrollada en vue.js que despliega datos tomados desde una API 
 
 
 ## Project Setup
